@@ -1,4 +1,4 @@
-> **Warning**  
+> [!NOTE]
 >
 > This page is still a work in progress
 
