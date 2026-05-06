@@ -1,21 +1,45 @@
-> [!NOTE]
->
-> This page is still a work in progress
+<p align="center">
+  <img src="https://projectbinder.eu/wp-content/uploads/2023/08/SKAERM_ProjectBinder-INIT_black.svg-1.svg" alt="Organization Logo" width="300"/>
+</p>
 
-ProjectBinder is a part of INIT Group.
+# ProjectBinder
 
-ProjectBinder's primary focus is lies in the realm of manufacturing IT & automation in the life science industry
+**Manufacturing IT & Automation for the Life Science Industry**
 
-Work in progress
+ProjectBinder is an IT/OT consulting and engineering company helping life sciences organisations accelerate digital transformation. We combine advisory, design, and hands-on implementation to deliver scalable and compliant solutions across the manufacturing lifecycle.
 
-# Focus Areas
+---
 
-## Industrial Automation
+## 🚀 Focus Areas
 
-## IT/OT Infrastructure
+- IT/OT Integration & Infrastructure   
+- Digital Transformation & MES
+- Compliance & Validation
+- Cibersecurity
+- Digital Twin & Industrial AI  
 
-## MES
+We support pharmaceutical and biotech companies in improving operational efficiency, ensuring data integrity, and enabling smarter decision-making.
 
-## Digital Twins
+---
 
-## GxP Compliance
+## 🔧 Services
+
+- **Advisory** – Project leading, strategy and roadmap definition, concept development and vendor selection processes 
+- **Architecture** – Defining a target system architecture and solution design  
+- **Implementation** – Hands-on delivery and integration  
+- **Support** – Ongoing operations and maintenance  
+
+---
+
+## 🌍 About Us
+
+- Founded in 2012  
+- Offices in Denmark, Spain, Ireland and Germany 
+
+---
+
+## 🔗 Learn More
+
+Visit us at: https://projectbinder.eu/
+
+Part of INIT Group - https://initgroup.com/ 
